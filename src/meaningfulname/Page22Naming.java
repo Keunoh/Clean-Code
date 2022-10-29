@@ -1,4 +1,4 @@
-package meaningful_name;
+package meaningfulname;
 
 import java.util.ArrayList;
 import java.util.List;
