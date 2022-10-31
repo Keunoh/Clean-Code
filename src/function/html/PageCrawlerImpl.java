@@ -1,4 +1,4 @@
-package function;
+package function.html;
 
 public class PageCrawlerImpl implements PageCrawler {
 
