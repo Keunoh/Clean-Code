@@ -1,5 +1,7 @@
 package function;
 
+import function.html.*;
+
 public class HtmlUtil {
 
     public static String testableHtml(PageData pageData, boolean includeSuiteSetup) throws Exception {
