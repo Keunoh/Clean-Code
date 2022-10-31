@@ -1,5 +1,8 @@
 package function;
 
+import function.html.PageData;
+import function.html.WikiPage;
+
 public class HtmlUtilRefactor {
     
     
