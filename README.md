@@ -12,3 +12,4 @@ Clean Code for better Programmer! 🏔🛤🪐
 
 ### 🛠 함수
 - 작게 만들어라!
+- 한 가지만 해라!
