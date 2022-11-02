@@ -11,7 +11,7 @@ public class IsDeserve {
     }
 
     //이 함수가 더 의도를 잘 표현한다.
-    public void goodIntension() {
+    public void goodIntention() {
         if (employee.isEligibleForFullBenefits()) {
             System.out.println("yes");
         }
