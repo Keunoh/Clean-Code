@@ -14,7 +14,7 @@ public class WikiPage {
         this.wikiPage = wikiPage;
     }
 
-    public Page getPageCrawler() {
-        return new Page();
+    public PageCrawler getPageCrawler() {
+        return new PageCrawlerImpl();
     }
 }

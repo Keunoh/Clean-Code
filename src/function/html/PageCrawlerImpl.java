@@ -11,4 +11,9 @@ public class PageCrawlerImpl implements PageCrawler {
     public WikiPage interfaceMethod(String setUpName, WikiPage wikiPage) {
         return null;
     }
+
+    @Override
+    public WikiPagePath getFullPath(WikiPage wikiPage) {
+        return null;
+    }
 }
